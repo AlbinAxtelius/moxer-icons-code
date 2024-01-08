@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 5.12.0 (2024-01-08)
+
+
+### Features
+
+* add astro file icon ([574b167](https://github.com/moxer-theme/moxer-icons-code/commit/574b167fc76b6d60e1d6b1ba5cd4e7e48b282992))
+* add C file icon ([a380e90](https://github.com/moxer-theme/moxer-icons-code/commit/a380e9062f7b1eec6f0d338bad9f6f162e2e2e91))
+* add dart file icon ([f6c6213](https://github.com/moxer-theme/moxer-icons-code/commit/f6c6213666da1fc82b47a196c1ada93349c9a773))
+* Add fsharp support ([c9f8ab5](https://github.com/moxer-theme/moxer-icons-code/commit/c9f8ab5d43ac30e9953d3f0911fdd3a881fdc487))
+* Add jupyter and nunjucks icons ([2d23590](https://github.com/moxer-theme/moxer-icons-code/commit/2d23590527b04e2489f5089107b77cdfeaebf103))
+* add nimble file icon ([89c90b5](https://github.com/moxer-theme/moxer-icons-code/commit/89c90b5dc818db4a27457141d3fcedfb1eb7cb4e)), closes [#22](https://github.com/moxer-theme/moxer-icons-code/issues/22)
+* add purescript and dhall support ([59c1643](https://github.com/moxer-theme/moxer-icons-code/commit/59c16438149babc653a7dd872e2b4d8a923596fc)), closes [#43](https://github.com/moxer-theme/moxer-icons-code/issues/43)
+* add support for Prisma ([2702b77](https://github.com/moxer-theme/moxer-icons-code/commit/2702b777e51026f8f9e7a9bbffcf50b16e6add79))
+* update editorconfig icon ([a0b94f5](https://github.com/moxer-theme/moxer-icons-code/commit/a0b94f554eb1783169f6ba0dc7a45d11db94a39d))
+
+
+### Bug Fixes
+
+* add nimble language id ([031356c](https://github.com/moxer-theme/moxer-icons-code/commit/031356c5f9c5f508de6eddf63a358a990799a41b))
+* build scripts ([0cd1b23](https://github.com/moxer-theme/moxer-icons-code/commit/0cd1b23a4bef547066a263d5f4ab713fee720ea7))
+* remove angular specific icons to avoid frameworks collision ([2219761](https://github.com/moxer-theme/moxer-icons-code/commit/22197614676bd63f31f49dfebe4d5e5ba0fa5917)), closes [#44](https://github.com/moxer-theme/moxer-icons-code/issues/44)
+
 ## [5.11.0](https://github.com/moxer-theme/moxer-icons-code/compare/v5.10.0...v5.11.0) (2023-04-12)
 
 
